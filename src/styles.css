@@ -1,0 +1,29 @@
+/* styles.css */
+button {
+    margin: 5px;
+    padding: 10px 15px;
+    background-color: #4CAF50; /* 緑色の背景 */
+    color: white; /* テキストを白に */
+    border: none; /* ボーダーなし */
+    border-radius: 5px; /* 角を丸く */
+    cursor: pointer; /* カーソルをポインタに */
+  }
+  
+  button:hover {
+    background-color: #45a049; /* ホバー時の色 */
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse; /* ボーダーの重なりをなくす */
+  }
+  
+  th, td {
+    border: 1px solid #ddd; /* セルにボーダー */
+    padding: 8px; /* パディング */
+  }
+  
+  th {
+    background-color: #f2f2f2; /* ヘッダーの背景色 */
+  }
+  
